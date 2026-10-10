@@ -1,5 +1,6 @@
 IYF COllababoration Project
-This is a simple project by two learners to practice teamwork using Github
+This is a simple project by two learners
+to practice teamwork using Github
 
 Team Members
 
