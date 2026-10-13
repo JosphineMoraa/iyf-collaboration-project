@@ -1,8 +1,10 @@
-
-
 #   IYF     COllababoration   Project
 
  Our Goal
+ - How to collaborate on GitHub
+- How to create and edit files
+- How to commit changes
+- How to share and review code
 
 ##  Team    Members
 
@@ -12,10 +14,6 @@
 ##   Josphine Moraa -  HTML  TIPS
 
 
-- How to collaborate on GitHub
-- How to create and edit files
-- How to commit changes
-- How to share and review code
 
 ##  Carlos   Adenge – CSS   Tips  for  Beginners
 
