@@ -50,7 +50,7 @@ CSS is what makes websites look beautiful. Here are some useful tips I have lear
 
 I am currently learning CSS in IYF Weekend Academy Season 12 and enjoying the process of making websites look professional.
  
-## Belinda Omondi-  Github
+##  Belinda Omondi   -   GITHUB 
 
 ## GitHub for Beginners
 
