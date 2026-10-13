@@ -10,7 +10,7 @@
 
 - Josphine Moraa
 - Carlos Adenge
-
+-Belinda Omondi
 ##   Josphine Moraa -  HTML  TIPS
 
 HTML is used to create the structure of a webpage. Here are a few tips I have learned:
