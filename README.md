@@ -1,26 +1,16 @@
-IYF Collaboration Project
 
-About Our Project
 
-This project is part of the IYF Weekend Academy Season 12 collaboration assignment.
+#IYF COllababoration Project
 
  Our Goal
 
-To learn how to work together using GitHub, share ideas, write code, and build a simple web project.
-
-Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-Team Members
+##Team Members
 
 - Josphine Moraa
-- Belinda Omondi
-- stephen
+- Carlos Adenge
 
-What We Will Learn
+#Josphine Moraa-HTML TIPS
+
 
 - How to collaborate on GitHub
 - How to create and edit files
