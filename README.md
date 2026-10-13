@@ -42,15 +42,15 @@ CSS is what makes websites look beautiful. Here are some useful tips I have lear
 - Keep your CSS organized by grouping related styles together.
 
 **Useful CSS properties for beginners:**
-- `display: flex;`
-- `justify-content: center;`
-- `align-items: center;`
+- `display: flex`
+- `justify-content: center`
+- `align-items: center
 - `gap: 1rem;`
-- `border-radius: 8px;`
+- `border-radius: 8px`
 
 I am currently learning CSS in IYF Weekend Academy Season 12 and enjoying the process of making websites look professional.
-
-## Belinda Omondi- Github
+ 
+## Belinda Omondi-  Github
 
 ## GitHub for Beginners
 
