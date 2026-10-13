@@ -12,7 +12,16 @@
 - Carlos Adenge
 - Belinda Omondi
 
+-Belinda Omondi
 ##   Josphine Moraa -  HTML  TIPS
+
+HTML is used to create the structure of a webpage. Here are a few tips I have learned:
+
+- Use headings: They help organize information.
+- Use paragraphs: They make text easier to read.
+- Add links: They help people visit other pages.
+- Use images: They make webpages more interesting.
+
 
 
 HTML is used to create the structure of a webpage. Here are a few tips I have learned:
