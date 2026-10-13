@@ -1,15 +1,15 @@
 
 
-##IYF COllababoration Project
+#   IYF     COllababoration   Project
 
  Our Goal
 
-##Team Members
+##  Team    Members
 
 - Josphine Moraa
 - Carlos Adenge
 
-#Josphine Moraa-HTML TIPS
+##   Josphine Moraa -  HTML  TIPS
 
 
 - How to collaborate on GitHub
@@ -17,7 +17,7 @@
 - How to commit changes
 - How to share and review code
 
-## Carlos Adenge – CSS Tips for Beginners
+##  Carlos   Adenge – CSS   Tips  for  Beginners
 
 CSS is what makes websites look beautiful. Here are some useful tips I have learned:
 
