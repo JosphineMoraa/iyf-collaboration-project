@@ -10,6 +10,8 @@
 
 - Josphine Moraa
 - Carlos Adenge
+- Belinda Omondi
+
 -Belinda Omondi
 ##   Josphine Moraa -  HTML  TIPS
 
@@ -21,6 +23,13 @@ HTML is used to create the structure of a webpage. Here are a few tips I have le
 - Use images: They make webpages more interesting.
 
 
+
+HTML is used to create the structure of a webpage. Here are a few tips I have learned:
+
+- Use headings: They help organize information.
+- Use paragraphs: They make text easier to read.
+- Add links: They help people visit other pages.
+- Use images: They make webpages more interesting.
 
 
 ##  Carlos   Adenge – CSS   Tips  for  Beginners
@@ -41,3 +50,16 @@ CSS is what makes websites look beautiful. Here are some useful tips I have lear
 - `border-radius: 8px;`
 
 I am currently learning CSS in IYF Weekend Academy Season 12 and enjoying the process of making websites look professional.
+
+## Belinda Omondi- Github
+
+## GitHub for Beginners
+
+- GitHub is a platform used to store and manage code.
+- A repository is where project files are stored.
+- Branches allow users to work on changes separately.
+- Commits save changes made to files.
+- Pull requests allow team members to review changes before merging them.
+- Issues help teams track tasks, bugs, and improvements.
+- Collaboration allows people to work together on the same project.
+- Markdown helps users format text using simple symbols.
